@@ -7,3 +7,5 @@ Visual Studio 2017
 
 UI language : English, Chinese, Japanese
 
+If you need run on WindowsXP or Windows7, you can download a old version from 
+http://www.infbj.com/?L=en-us&M=FreeSoftwares
