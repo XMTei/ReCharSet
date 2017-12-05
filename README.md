@@ -5,5 +5,5 @@ OS: Windows 10
 Visual Studio 2017
 .Net 4.0
 
-UI language : English, Chiniese, Japanese
+UI language : English, Chinese, Japanese
 
