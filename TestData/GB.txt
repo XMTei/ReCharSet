@@ -1,0 +1,2 @@
+此为中文GB码的文件。
+This file is written by Chinese GB code.

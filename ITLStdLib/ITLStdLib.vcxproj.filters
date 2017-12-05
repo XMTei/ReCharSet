@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\IE">
+      <UniqueIdentifier>{b2a179cd-745c-4ad7-8d3a-b7b67bcf8b29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\API">
+      <UniqueIdentifier>{50cd0bd3-204f-46e5-ad2a-616111e924a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Controls">
+      <UniqueIdentifier>{6e36e7cc-0a64-4e07-80f1-6725f59ab3fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Controls\ListView">
+      <UniqueIdentifier>{9e4048b4-d33b-4ceb-92ec-3340a9f0b031}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Controls\ToolStrip">
+      <UniqueIdentifier>{bc68e618-d926-4716-bf4d-97bde11f8990}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Objects">
+      <UniqueIdentifier>{02192596-58dc-48b8-b4bc-fa2245801b83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Other">
+      <UniqueIdentifier>{c734e5ac-3efd-4a77-9792-0292cd2ce173}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ITLStdLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ITLStdLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ITLMLang.h">
+      <Filter>Header Files\IE</Filter>
+    </ClInclude>
+    <ClInclude Include="ITLShell32.h">
+      <Filter>Header Files\API</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeListView.h">
+      <Filter>Header Files\Controls\ListView</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeListViewDirectoryNode.h">
+      <Filter>Header Files\Controls\ListView</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeListViewFileNode.h">
+      <Filter>Header Files\Controls\ListView</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeListViewNode.h">
+      <Filter>Header Files\Controls\ListView</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeListViewTextFileNode.h">
+      <Filter>Header Files\Controls\ListView</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolStripCheckBox.h">
+      <Filter>Header Files\Controls\ToolStrip</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolStripMultiProgressBarButton.h">
+      <Filter>Header Files\Controls\ToolStrip</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolStripTrackBar.h">
+      <Filter>Header Files\Controls\ToolStrip</Filter>
+    </ClInclude>
+    <ClInclude Include="TextFileEncordingInfo.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolStirpItemsStatusContainer.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="TextEncoding.h">
+      <Filter>Header Files\Other</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
