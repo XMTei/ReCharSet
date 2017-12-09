@@ -31,4 +31,4 @@ Most of old C++ source codes are written by local character code, such as ASCII 
 ![Screenshot](ReCharSet/Images/ScreenShot.PNG)
 
 ## For WindowsXP
-If you need run on WindowsXP or Windows7, you can download a old version from [here](http://www.infbj.com/?L=en-us&M=FreeSoftwares)
+If you want to use this software on WindowsXP, you can download a old version from [here](http://www.infbj.com/?L=en-us&M=FreeSoftwares)
