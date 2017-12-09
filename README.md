@@ -27,7 +27,7 @@ Most of old C++ source codes are written by local character code, such as ASCII 
 - The file contents will be shown on right side by selected the file.
 - Click ![Apply button](ReCharSet/Images/apply.png) to overwrite all the source files by using unicode.
 - See the [Release Note](ReCharSet/ReleaseNote.txt) for Chinese or Japanese instruction.
-![Screenshot]（ReCharSet/ReCharSet/Images/ScreenShot.png)
+![Screenshot]（ReCharSet/Images/ScreenShot.png)
 
 ## For WindowsXP
 If you need run on WindowsXP or Windows7, you can download a old version from [here](http://www.infbj.com/?L=en-us&M=FreeSoftwares)
