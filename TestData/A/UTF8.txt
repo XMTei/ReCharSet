@@ -1,0 +1,3 @@
+﻿これは日本語‘ShiftJISで書かれたファイルです。
+This file is written by Japanese Shift-JIS Code
+你好

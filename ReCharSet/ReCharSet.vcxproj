@@ -149,6 +149,7 @@
     <Image Include="Images\apply.png" />
     <Image Include="Images\character_picker.png" />
     <Image Include="Images\get_info.png" />
+    <Image Include="Images\ScreenShot.PNG" />
     <Image Include="Images\toggle_collapse.png" />
     <Image Include="Images\toggle_expand.png" />
   </ItemGroup>

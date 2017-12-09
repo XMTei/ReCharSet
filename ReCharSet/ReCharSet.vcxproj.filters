@@ -61,6 +61,9 @@
     <Image Include="Images\toggle_expand.png">
       <Filter>Images</Filter>
     </Image>
+    <Image Include="Images\ScreenShot.PNG">
+      <Filter>Images</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="app.rc">
