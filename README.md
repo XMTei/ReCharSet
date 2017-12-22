@@ -15,7 +15,7 @@ Most of old C++ source codes are written by local character code, such as ASCII 
 - Find out the original character coding type of each source code file automatically.
 - Preview the text contents of selected file, and you can set the character coding type for the select file.
 - This program has English, Chinese, Japanese UI.
-- This project contains several reusable control classes such TreeListView. 
+- This project contains several reusable control classes such as TreeListView. 
 
 
 ## How to install
